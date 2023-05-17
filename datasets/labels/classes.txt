@@ -1,0 +1,5 @@
+Handgun
+Bazooka
+Automatic Rifle
+Grenade Launcher
+Knife

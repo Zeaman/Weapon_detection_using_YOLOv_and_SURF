@@ -1,0 +1,15 @@
+path: /content/weapon_dataset
+train: /content/weapon_detection/images/train 
+val: /content/weapon_detection/images/val 
+
+#Number of classes:
+nc: 5
+
+# Classes
+names: ["Handgun", "Bazooka", "Automatic Rifle", "Grenade Launcher", "Knife"]
+ 
+ 
+
+
+# Download script/URL (optional)
+download: https://ultralytics.com/assets/coco128.zip
